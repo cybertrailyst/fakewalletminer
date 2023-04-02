@@ -1,0 +1,5 @@
+The "Fake Wallet Miner" is a software prototype developed for a school project. It simulates the process of cryptocurrency mining by creating a virtual environment where users can "mine" digital coins without using real resources. The software is designed to showcase the basic principles of blockchain technology and the concept of proof-of-work.
+
+With its user-friendly interface, the Fake Wallet Miner allows users to select their preferred cryptocurrency and start the mining process with just a few clicks. As they mine, they can track their progress and earnings in real-time, receiving periodic updates on their virtual wallet balance. The software also includes a leaderboard feature, allowing users to compete with their peers and see who can mine the most coins in the shortest time.
+
+Overall, the Fake Wallet Miner provides a fun and educational experience for anyone interested in learning more about the fascinating world of cryptocurrencies and blockchain technology. By exploring the mechanics of mining in a risk-free environment, users can gain a deeper understanding of the challenges and opportunities involved in this rapidly evolving industry.
